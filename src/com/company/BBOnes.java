@@ -64,9 +64,9 @@ public class BBOnes {
             System.out.println("Round |              User|                Computer\n" +
                     "------+------------------+------------------------\n" +
 
-                    "      |Predictade:     " + vod + " |       \tPredictade: " + compnums + "\n" +
-                    "- 1 - |Dice:           " + twonums + " |        \tDice: " + comp + "\n" +
-                    "      |Result:         " + allcomp+ " |        \tResult: " + compnums  + "\n" +
+                    "      |Predictade:     " + vod + " |       \tPredictade: " + allcomp + "\n" +
+                    "- 1 - |Dice:           " + twonums + " |        \tDice: " + allcomp + "\n" +
+                    "      |Result:         " + allnums+ " |        \tResult: " + compnums  + "\n" +
 
                     "------+-------------+------------\n" +
                     "- 2 - +-------------+------------\n" +
